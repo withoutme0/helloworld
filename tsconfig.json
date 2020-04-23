@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "strictNullChecks": true,
+        "declaration": true,
+        "outDir": "dist",
+      "allowSyntheticDefaultImports": true
+    },
+    "include": ["src"]
+}
