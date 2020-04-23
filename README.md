@@ -1,4 +1,4 @@
-# filmizlevip addon for [WATCHED.com](https://www.watched.com)
+# diziay addon for [WATCHED.com](https://www.watched.com)
 
 This addon was created with the [WATCHED javascript SDK](https://github.com/watchedcom/sdk-javascript).
 
