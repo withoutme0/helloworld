@@ -30,7 +30,7 @@
         "puppeteer-extra-plugin-stealth": "^2.4.9",
         "puppeteer-firefox": "^0.5.1",
         "source-scraper": "^1.2.14",
-        "urllib": "^2.34.2"
+        "urllib": "^2.38.1"
     },
     "husky": {
         "hooks": {
